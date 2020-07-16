@@ -1,4 +1,4 @@
-### Hi! I am Akanksha Priya(Spring-dot!) 
+### Hi! I am Akanksha Priya(Spring-dot!)  :smile:
 ![github profile logo](https://github.com/Spring-dot/Spring-dot/blob/master/myAvatar.png)
 <br>
 I have done a Django project from scratch - SnapShot(can read more about it from: https://github.com/Spring-dot/SnapShot/blob/master/README.md).
