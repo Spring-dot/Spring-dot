@@ -1,6 +1,7 @@
 ### Hi! I am Akanksha Priya(Spring-dot!)  :smile:
 ![github profile logo](https://github.com/Spring-dot/Spring-dot/blob/master/myAvatar.png)
 <br>
+Right now I am working as web developer intern @ApexClasses
 I have done a Django project from scratch - SnapShot(can read more about it from: https://github.com/Spring-dot/SnapShot/blob/master/README.md).
 <!--
 **Spring-dot/Spring-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
