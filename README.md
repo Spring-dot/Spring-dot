@@ -1,4 +1,6 @@
 ## Hi! I am Akanksha Priya(Spring-dot!)  :smile:
+Sophomore @IIT Roorkee, Electrical engineering!
+
 ![github profile logo](https://github.com/Spring-dot/Spring-dot/blob/master/myAvatar.png)
 
 Right now I am working as web developer intern @ApexClasses.
