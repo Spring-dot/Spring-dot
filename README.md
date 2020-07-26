@@ -7,7 +7,20 @@ I am working as web developer intern @ApexClasses.
 
 Currently learning AWS-Fundamentals and boosting my knowledge in ReactJS.
 ### My projects built from scratch using different languages :
-I have done a Django project from scratch - SnapShot(can read more about it from: https://github.com/Spring-dot/SnapShot/blob/master/README.md).
+* Django
+  * SnapShot:
+* Flask
+  * Your_words:
+* Python
+  * Web_crawler:
+* Bootstrap
+  * bs_project:
+  * Lockdown5.0:
+* JavaScript
+  * To-do-list:
+  * Color_game:
+
+
 <!--
 **Spring-dot/Spring-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
