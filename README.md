@@ -20,6 +20,7 @@ Currently learning AWS-Fundamentals and boosting my knowledge in ReactJS.
   * To-do-list: A list made using javascript, use to handle our daily routine. Read more: https://github.com/Spring-dot/To-do_list/blob/master/README.md.
   * Color_game: A simple color-game using basic js concept. Read more: https://github.com/Spring-dot/color_game/blob/master/README.md.
   * React-confusion: Coming Soon!!
+#### Check more simple projects made during my learning period like: Python1, subject_record.
 
 
 <!--
