@@ -10,7 +10,7 @@ Currently learning AWS-Fundamentals and boosting my knowledge in ReactJS.
 * Django
   * SnapShot: A website made using django and some css and html, it stores and displays snapshots added by different users. User can add any photo but with valid URL and complete description. Read more: https://github.com/Spring-dot/SnapShot/blob/master/README.md.
 * Flask
-  * Your_words:
+  * Your_words: A flask app(website) to create and store blogs wriiten by different users! Read more: https://github.com/Spring-dot/Your_words/blob/master/README.md.
 * Python
   * Web_crawler:
 * Bootstrap
