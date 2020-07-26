@@ -12,7 +12,7 @@ Currently learning AWS-Fundamentals and boosting my knowledge in ReactJS.
 * Flask
   * Your_words: A flask app(website) to create and store blogs wriiten by different users! Read more: https://github.com/Spring-dot/Your_words/blob/master/README.md.
 * Python
-  * Web_crawler:
+  * Web_crawler: A web-crawling application using python from scratch This web-crawler crawls facebook.com. Read more: https://github.com/Spring-dot/Web_crawler/blob/master/README.md.
 * Bootstrap
   * bs_project:
   * Lockdown5.0:
