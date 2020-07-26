@@ -17,8 +17,8 @@ Currently learning AWS-Fundamentals and boosting my knowledge in ReactJS.
   * bs_project: A project build using bootstrap4.0. This project comprises of memories we made with friends and uses features like image carousel. Read more: https://github.com/Spring-dot/bs_project/blob/master/README.md.
   * Lockdown5.0: A html + css project describing activities during lockdown days! Read more : https://github.com/Spring-dot/Lockdown5.0/blob/master/README.md.
 * JavaScript
-  * To-do-list:
-  * Color_game:
+  * To-do-list: A list made using javascript, use to handle our daily routine. Read more: https://github.com/Spring-dot/To-do_list/blob/master/README.md.
+  * Color_game: A simple color-game using basic js concept. Read more: https://github.com/Spring-dot/color_game/blob/master/README.md.
   * React-confusion: Coming Soon!!
 
 
