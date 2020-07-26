@@ -14,8 +14,8 @@ Currently learning AWS-Fundamentals and boosting my knowledge in ReactJS.
 * Python
   * Web_crawler: A web-crawling application using python from scratch This web-crawler crawls facebook.com. Read more: https://github.com/Spring-dot/Web_crawler/blob/master/README.md.
 * Bootstrap
-  * bs_project:
-  * Lockdown5.0:
+  * bs_project: A project build using bootstrap4.0. This project comprises of memories we made with friends and uses features like image carousel. Read more: https://github.com/Spring-dot/bs_project/blob/master/README.md.
+  * Lockdown5.0: A html + css project describing activities during lockdown days! Read more : https://github.com/Spring-dot/Lockdown5.0/blob/master/README.md.
 * JavaScript
   * To-do-list:
   * Color_game:
