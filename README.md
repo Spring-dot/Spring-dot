@@ -3,7 +3,7 @@ Sophomore @IIT Roorkee, Electrical engineering!
 
 ![github profile logo](https://github.com/Spring-dot/Spring-dot/blob/master/myAvatar.png)
 
-I am working as web developer intern @ApexClasses.
+Happy to complete *Web Development and Maintanence Intern* at *Apex classes*
 
 Currently learning AWS-Fundamentals and boosting my knowledge in ReactJS.
 ### My projects built from scratch using different languages :
