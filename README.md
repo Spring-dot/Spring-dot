@@ -22,9 +22,7 @@ Currently making contributions and learning in GirlScript Summer of Code'21
   * React-confusion: Coming Soon!!
 #### Check more simple projects made during my learning period like: Python1, subject_record, react-app.
 ### Worked as mentee under Microsoft Engage'21.
-### Upcoming SDE intern @StanC
-
-
+### Upcoming SDE intern @StanC 2022
 <!--
 **Spring-dot/Spring-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
