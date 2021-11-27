@@ -5,7 +5,7 @@ Pre-final year @IIT Roorkee, Electrical engineering!
 
 Happy to be part of Goldmann Sachs finance finale summit 2021.
 
-Currently making contributions and learning in GirlScript Summer of Code'21
+Successfully completed GirlScript Summer of Code'21
 ### My projects built from scratch using different languages :
 * Django
   * SnapShot: A website made using django and some css and html, it stores and displays snapshots added by different users. User can add any photo but with valid URL and complete description. Read more: https://github.com/Spring-dot/SnapShot/blob/master/README.md.
