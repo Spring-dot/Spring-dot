@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on Voltage Control and Cybersecurity of Microgrid.
-- 🌱 I’m currently learning Financial Management and Cloud @Oracle. 
+- 🌱 I’m currently learning Financial Management and Database @Oracle. 
 - 👯 I’m looking to collaborate on creative projects under MERN Stack or ML based.
 - 💬 Ask me about Data Structure and Algorithms, Open Source and Cloud.
 - 📫 How to reach me: akankshapriya2162000@gmail.com 
