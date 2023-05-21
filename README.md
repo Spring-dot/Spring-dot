@@ -1,5 +1,5 @@
 ## Hi! I am Akanksha Priya(Spring-dot!)  :smile:
-- Electrical Engineer @IIT Roorkee'23, Upcoming SDE-1 @Oracle, India.
+- Electrical Engineer @IIT Roorkee'23, Upcoming Member of Technical Staff @Oracle, India.
 - Completed Summer Internship (May-July'22) in Standard Chartered GBS India.
 - Completed Microsoft Engage Mentorship 2021, Mentor @GSSoC'22.
 
