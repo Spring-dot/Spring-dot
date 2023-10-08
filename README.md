@@ -1,18 +1,15 @@
-## Hi! I am Akanksha Priya(Spring-dot!)  :smile:
-- Member Technical Staff @Oracle, India, Graduated Electrical Engineer @IIT Roorkee.
+## Halo! I am Akanksha Priya(Spring-dot!)  :
+- Member Technical Staff @Oracle, India, Electrical Engineer @IIT Roorkee.
 - Completed Summer Internship (May-July'22) in Standard Chartered GBS India.
 - Completed Microsoft Engage Mentorship 2021, Mentor @GSSoC'22.
-
-![github profile logo](https://github.com/Spring-dot/Spring-dot/blob/master/myAvatar.png)
-
-
-- 🔭 I’m currently working on Voltage Control and Cybersecurity of Microgrid.
-- 🌱 I’m currently learning Financial Management and Database @Oracle. 
+- 🔭 I’m currently working on Database.
+- 🌱 I’m currently learning Financial Management.
 - 👯 I’m looking to collaborate on creative projects under MERN Stack or ML based.
-- 💬 Ask me about Data Structure and Algorithms, Open Source and Cloud.
-- 📫 How to reach me: akankshapriya2162000@gmail.com 
+- 💬 Ask me about Data Structure and Algorithms, Open Source, and Cloud.
+- 📫 How to reach me: akankshapriya2162000@gmail.com (Feel free to discuss ideas here)
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I am a bookworm but can't remember characters' name! :/
+- ⚡ Fun fact: I am a bookworm but can't remember characters' names! :/
+
 <!--
 **Spring-dot/Spring-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
